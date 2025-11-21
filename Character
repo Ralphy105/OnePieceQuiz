@@ -1,0 +1,16 @@
+class Character{
+    constructor(name, mangaOnly, island, crew, arcsAppeared, gender, devilFruitUser, nickNames, bounty, intro){
+        this.name = name
+        this.mangaOnly = mangaOnly
+        this.island = island
+        this.crew = crew
+        this.arcsAppeared = arcsAppeared
+        this.gender = gender
+        this.devilFruitUser = devilFruitUser
+        this.nickNames = nickNames
+        this.bounty = bounty
+        this.intro = intro
+    }
+
+
+}

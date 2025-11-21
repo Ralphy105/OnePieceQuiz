@@ -1,0 +1,1299 @@
+[
+    {
+        "name": {
+            "value": "Gol D. Roger",
+            "isSpoiler": true,
+            "alt": "Gold Roger"
+        },
+        "mangaOnly": false,
+        "islandOfOrigin": "Loguetown",
+        "race": "Human",
+        "crew": "Roger Pirates",
+        "arcsAppeared": [
+            "Romance Dawn",
+            "Loguetown",
+            "Skypiea",
+            "Wano"
+        ],
+        "gender": "male",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": [
+            "Pirate King", 
+            "King of the Pirates",
+            "Roger",
+            "Gold Roger"
+        ],
+        "haki": "All 3"
+    },
+
+    {
+        "name": "Monkey D. Luffy",  
+        "mangaOnly": false,
+        "islandOfOrigin": "Dawn Island",
+        "race": "Human",
+        "crew": "Straw Hat Pirates",
+        "arcsAppeared": [
+            "Romance Dawn",
+            "Orange Town",
+            "Syrup Village",
+            "Baratie",
+            "Arlong Park",
+            "Loguetown",
+            "Reverse Mountain",
+            "Whisky Peak",
+            "Little Garden",
+            "Drum Island",
+            "Arabasta",
+            "Jaya",
+            "Skypiea",
+            "Long Ring Long Land",
+            "Water 7",
+            "Enies Lobby",
+            "Thriller Bark",
+            "Sabaody Archipelago",
+            "Amazon Lily",
+            "Impel Down",
+            "Marineford",
+            "Post-Marineford",
+            "Fish-Man Island",
+            "Punk Hazard",
+            "Dressrosa",
+            "Zou",
+            "Whole Cake Island",
+            "Wano",
+            "Egghead",
+            "Elbaph"
+        ],
+        "gender": "male",
+        "devilFruit": {
+            "devilFruitUser": true,
+            "devilFruitType": "Zoan", 
+            "isSpoiler" : true,
+            "altType" : "Paramecia"
+        },
+        "nickNames": [
+            "Lucy",
+            "Straw Boy",
+            "Straw Chan",
+            "Luffytaro",
+            "Luffy-tarou",
+            "Straw Hat",
+            "Luffy",
+            "Sir Luffy",
+            "Luffy-chin",
+            "Luffy-dono",
+            "Mugiwara",
+            "Mugiwara no luffy",
+            "Straw Hat Boy",
+            "Mugiwara-ya",
+            "Mugiwara ya"
+        ],
+        "haki": "All 3"
+    },
+
+    {
+        "name": {
+            "value": "Shanks",
+            "isSpoiler": false,
+            "alt": null
+        },
+        "mangaOnly": false,
+        "islandOfOrigin": {
+            "value": "God Valley",
+            "isSpoiler": true,
+            "alt": "Unknown"
+        },
+        "race": "Human",
+        "crew": "Red Hair Pirates",
+        "arcsAppeared": [
+            "Romance Dawn",
+            "Orange Town",
+            "Loguetown",
+            "Marineford",
+            "Wano",
+            "Egghead",
+            "Elbaph"
+        ],
+        "gender": "male",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": [
+            "Red Hair", 
+            "Red Haired Shanks",
+            "Red-Hair",
+            "Red-Haired Shanks"
+        ],
+        "haki": "All 3"
+    },
+
+        {
+        "name": "Lucky Roux",
+        "mangaOnly": false,
+        "islandOfOrigin": "Unknown",
+        "race": "Human",
+        "crew": "Red Hair Pirates",
+        "arcsAppeared": [
+            "Romance Dawn",
+            "Loguetown",
+            "Marineford",
+            "Wano",
+            "Egghead",
+            "Elbaph"
+        ],
+        "gender": "male",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": null,
+        "haki": null
+    },
+
+    {
+        "name": "Benn Beckman",
+        "mangaOnly": false,
+        "islandOfOrigin": "Unknown",
+        "race": "Human",
+        "crew": "Red Hair Pirates",
+        "arcsAppeared": [
+            "Romance Dawn",
+            "Loguetown",
+            "Marineford",
+            "Wano",
+            "Egghead",
+            "Elbaph"
+        ],
+        "gender": "male",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": null,
+        "haki": null
+    },
+    
+    {
+        "name": "Makino",
+        "mangaOnly": false,
+        "islandOfOrigin": "Dawn Island",
+        "race": "Human",
+        "crew": "None",
+        "arcsAppeared": [
+            "Romance Dawn",
+            "Post-Marineford",
+            "Fish-Man Island",
+            "Wano"
+        ],
+        "gender": "female",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": null,
+        "haki": null
+    },
+
+    {
+        "name": "Higuma",
+        "mangaOnly": false,
+        "islandOfOrigin": "Dawn Island",
+        "race": "Human",
+        "crew": "Mountain Bandit",
+        "arcsAppeared": [
+            "Romance Dawn"
+        ],
+        "gender": "male",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": [
+            "Higuma The Bear", 
+            "The Bear"
+        ],
+        "haki": null
+    },
+
+    {
+        "name": "Yasopp",
+        "mangaOnly": false,
+        "islandOfOrigin": "Syrup Village",
+        "race": "Human",
+        "crew": "Red Hair Pirates",
+        "arcsAppeared": [
+            "Romance Dawn",
+            "Syrup Village",
+            "Loguetown",
+            "Marineford",
+            "Wano",
+            "Egghead",
+            "Elbaph"
+        ],
+        "gender": "male",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": [
+            "Chaser", 
+            "Yasopp The Great"
+        ],
+        "haki": null
+    },
+
+        {
+        "name": "Woop Slap",
+        "mangaOnly": false,
+        "islandOfOrigin": "Dawn Island",
+        "race": "Human",
+        "crew": "None",
+        "arcsAppeared": [
+            "Romance Dawn",
+            "Post-Marineford",
+            "Fish-Man Island",
+            "Wano"
+        ],
+        "gender": "male",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": ["Mayor Woop Slap"],
+        "haki": null
+    },
+
+    {
+        "name": "Lord Of The Coast",
+        "mangaOnly": false,
+        "islandOfOrigin": "Dawn Island",
+        "race": "Sea King",
+        "crew": "None",
+        "arcsAppeared": [
+            "Romance Dawn"
+        ],
+        "gender": "male",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": null,
+        "haki": null
+    },
+
+    {
+        "name": "Alvida",
+        "mangaOnly": false,
+        "islandOfOrigin": "Goat Island",
+        "race": "Human",
+        "crew": {
+            "value" : "Cross Guild",
+            "isSpoiler" : true,
+            "alt" : [
+                "Buggy Pirates",
+                "Alvida Pirates"
+            ]
+        },
+        "arcsAppeared": [
+            "Romance Dawn",
+            "Loguetown",
+            "Jaya",
+            "Impel Down",
+            "Marineford",
+            "Post-Marineford",
+            "Whole Cake Island",
+            "Wano"
+        ],
+        "gender": "female",
+        "devilFruit": {
+            "devilFruitUser": true,
+            "devilFruitType": "Paramecia",
+            "isSpoiler" : true,
+            "AltUser" : false
+        },
+        "nickNames": [
+            "Iron Mace Alvida",
+            "Iron Mace"
+        ],
+        "haki": null
+    },
+
+    {
+        "name": "Koby",
+        "mangaOnly": false,
+        "islandOfOrigin": "Satsuruzo Kingdom",
+        "race": "Human",
+        "crew": {
+            "value" : "Marines",
+            "isSpoiler" : true,
+            "alt" : "Alvida Pirates"
+        },
+        "arcsAppeared": [
+            "Romance Dawn",
+            "Arlong Park",
+            "Water 7",
+            "Marineford",
+            "Post-Marineford",
+            "Dressrosa",
+            "Wano",
+            "Egghead"
+        ],
+        "gender": "male",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": [
+            "Coby",
+            "Koby The Hero",
+            "Coby The Hero",
+            "Hero of the Rocky Port Incident",
+            "Captain Koby",
+            "Captain Coby",
+            "Koby-kun",
+            "Coby-kun"
+        ],
+        "haki": {
+            "value" : "Armament & Observation",
+            "isSpoiler" : true,
+            "alt" : null
+        }
+    },
+
+    {
+        "name": "Roronoa Zoro",
+        "mangaOnly": false,
+        "islandOfOrigin": "Shimotsuki Village",
+        "race": "Human",
+        "crew": "Straw Hat Pirates",
+        "arcsAppeared": [
+            "Romance Dawn",
+            "Orange Town",
+            "Syrup Village",
+            "Baratie",
+            "Arlong Park",
+            "Loguetown",
+            "Reverse Mountain",
+            "Whisky Peak",
+            "Little Garden",
+            "Drum Island",
+            "Arabasta",
+            "Jaya",
+            "Skypiea",
+            "Long Ring Long Land",
+            "Water 7",
+            "Enies Lobby",
+            "Thriller Bark",
+            "Sabaody Archipelago",
+            "Fish-Man Island",
+            "Punk Hazard",
+            "Dressrosa",
+            "Zou",
+            "Wano",
+            "Egghead",
+            "Elbaph"
+        ],
+        "gender": "male",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": [
+            "Zoro",
+            "Roronoa",
+            "Pirate Hunter",
+            "King of Hell",
+            "Moss Head",
+            "Marimo",
+            "Zoro-juurou",
+            "Zolo",
+            "Roronoa Zolo",
+            "Zolo-juurou"
+        ],
+        "haki": "All 3"
+    },
+
+    {
+        "name": "Rika",
+        "mangaOnly": false,
+        "islandOfOrigin": "Shells Town",
+        "race": "Human",
+        "crew": "None",
+        "arcsAppeared": [
+            "Romance Dawn",
+            "Fish-Man Island"
+        ],
+        "gender": "female",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": null,
+        "haki": null
+    },
+
+    {
+        "name": "Helmeppo",
+        "mangaOnly": false,
+        "islandOfOrigin": "Shells Town",
+        "race": "Human",
+        "crew": "Marine",
+        "arcsAppeared": [
+            "Romance Dawn",
+            "Arlong Park",
+            "Water 7",
+            "Marineford",
+            "Post-Marineford",
+            "Dressrosa",
+            "Wano",
+            "Egghead"
+        ],
+        "gender": "male",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": null,
+        "haki": "Armament"
+    },
+
+    {
+        "name": "Ririka",
+        "mangaOnly": false,
+        "islandOfOrigin": "Shells Town",
+        "race": "Human",
+        "crew": "None",
+        "arcsAppeared": [
+            "Romance Dawn",
+            "Fish-Man Island"
+        ],
+        "gender": "female",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": null,
+        "haki": null
+    },
+    
+    {
+        "name": "Ripper",
+        "mangaOnly": false,
+        "islandOfOrigin": "Shells Town",
+        "race": "Human",
+        "crew": "Marine",
+        "arcsAppeared": [
+            "Romance Dawn"
+        ],
+        "gender": "male",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": [
+            "Rokkaku"
+        ],
+        "haki": null
+    },
+
+    {
+        "name": "Ukkari",
+        "mangaOnly": false,
+        "islandOfOrigin": "Shells Town",
+        "race": "Human",
+        "crew": "Marine",
+        "arcsAppeared": [
+            "Romance Dawn"
+        ],
+        "gender": "male",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": null,
+        "haki": null
+    },
+
+    {
+        "name": "Shimotsuki Kuina",
+        "mangaOnly": false,
+        "islandOfOrigin": "Shimotsuki Village",
+        "race": "Human",
+        "crew": "None",
+        "arcsAppeared": [
+            "Romance Dawn",
+            "Loguetown"
+        ],
+        "gender": "female",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": ["Kuina"],
+        "haki": null
+    },
+
+    {
+        "name": "Shimotsuki Koushirou",
+        "mangaOnly": false,
+        "islandOfOrigin": "Shimotsuki Village",
+        "race": "Human",
+        "crew": "None",
+        "arcsAppeared": [
+            "Romance Dawn"
+        ],
+        "gender": "male",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": ["Koushirou"],
+        "haki": "None"
+    },
+
+    {
+        "name": "Axe-Hand Morgan",
+        "mangaOnly": false,
+        "islandOfOrigin": "Shells Town",
+        "race": "Human",
+        "crew": "Marine",
+        "arcsAppeared": [
+            "Romance Dawn",
+            "Syrup Village"
+        ],
+        "gender": "male",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": [
+            "Morgan"
+        ],
+        "haki": null
+    },
+
+    
+
+    {
+        "name": "Pinky",
+        "mangaOnly": false,
+        "islandOfOrigin": "Orange Town",
+        "race": "Giant Bird",
+        "crew": "None",
+        "arcsAppeared": [
+            "Orange Town"
+        ],
+        "gender": "male",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": null,
+        "haki": null
+    },
+
+    {
+        "name": "Nami",
+        "mangaOnly": false,
+        "islandOfOrigin": "Cocoyashi Village",
+        "race": "Human",
+        "crew": "Straw Hat Pirates",
+        "arcsAppeared": [
+            "Orange Town",
+            "Syrup Village",
+            "Baratie",
+            "Arlong Park",
+            "Loguetown",
+            "Reverse Mountain",
+            "Whisky Peak",
+            "Little Garden",
+            "Drum Island",
+            "Arabasta",
+            "Jaya",
+            "Skypiea",
+            "Long Ring Long Land",
+            "Water 7",
+            "Enies Lobby",
+            "Thriller Bark",
+            "Sabaody Archipelago",
+            "Fish-Man Island",
+            "Punk Hazard",
+            "Dressrosa",
+            "Zou",
+            "Whole Cake Island",
+            "Wano",
+            "Egghead",
+            "Elbaph"
+        ],
+        "gender": "female",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": [
+            "Cat Burgular Nami",
+            "Cat Burgalar",
+            "O-Nami"
+        ],
+        "haki": null
+    },
+
+    {
+        "name": "Buggy",
+        "mangaOnly": false,
+        "islandOfOrigin": "Unknown",
+        "race": "Human",
+        "crew": {
+            "value" : "Cross Guild",
+            "isSpoiler" : true,
+            "alt" : "Buggy Pirates"
+        },
+        "arcsAppeared": [
+            "Orange Town",
+            "Loguetown",
+            "Jaya",
+            "Impel Down",
+            "Marineford",
+            "Post-Marineford",
+            "Zou",
+            "Wano",
+            "Egghead"
+        ],
+        "gender": "male",
+        "devilFruit": {
+            "devilFruitUser": true,
+            "devilFruitType": "Paramecia"
+        },
+        "nickNames": [
+            "Buggy The Clown",
+            "Buggy the Star Clown",
+            "The Genius Jester",
+            "Big Nose",
+            "Red Nose"
+        ],
+        "haki": null
+    },
+
+    {
+        "name": "Cabaji",
+        "mangaOnly": false,
+        "islandOfOrigin": "Unknown",
+        "race": "Human",
+        "crew": {
+            "value" : "Cross Guild",
+            "isSpoiler" : true,
+            "alt" : "Buggy Pirates"
+        },
+        "arcsAppeared": [
+            "Orange Town",
+            "Loguetown",
+            "Jaya",
+            "Impel Down",
+            "Marineford",
+            "Post-Marineford"
+        ],
+        "gender": "male",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": [
+            "Cabaji the Acrobat",
+            "The Acrobat"
+        ],
+        "haki": null
+    },
+
+    {
+        "name": "Mohji",
+        "mangaOnly": false,
+        "islandOfOrigin": "Unknown",
+        "race": "Human",
+        "crew": {
+            "value" : "Cross Guild",
+            "isSpoiler" : true,
+            "alt" : "Buggy Pirates"
+        },
+        "arcsAppeared": [
+            "Orange Town",
+            "Loguetown",
+            "Jaya",
+            "Impel Down",
+            "Marineford",
+            "Post-Marineford"
+        ],
+        "gender": "male",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": [
+            "Mohji The Beast Tamer",
+            "Beast Tamer",
+            "Mohji The Lion Tamer",
+            "Lion Tamer"
+        ],
+        "haki": null
+    },
+
+    {
+        "name": "Richie",
+        "mangaOnly": false,
+        "islandOfOrigin": "Unknown",
+        "race": "Lion",
+        "crew": {
+            "value" : "Cross Guild",
+            "isSpoiler" : true,
+            "alt" : "Buggy Pirates"
+        },
+        "arcsAppeared": [
+            "Orange Town",
+            "Loguetown",
+            "Jaya",
+            "Impel Down",
+            "Marineford",
+            "Post-Marineford"
+        ],
+        "gender": "male",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": [
+            "Richy",
+            "Captain Richie"
+        ],
+        "haki": null
+    },
+
+    {
+        "name": "Chou Chou",
+        "mangaOnly": false,
+        "islandOfOrigin": "Orange Town",
+        "race": "Dog",
+        "crew": "None",
+        "arcsAppeared": [
+            "Orange Town"
+        ],
+        "gender": "male",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": null,
+        "haki": null
+    },
+
+    {
+        "name": "Boodle",
+        "mangaOnly": false,
+        "islandOfOrigin": "Orange Town",
+        "race": "Human",
+        "crew": "None",
+        "arcsAppeared": [
+            "Orange Town"
+        ],
+        "gender": "male",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": ["Mayor Boodle"],
+        "haki": null
+    },
+
+    {
+        "name": "Hocker",
+        "mangaOnly": false,
+        "islandOfOrigin": "Orange Town",
+        "race": "Human",
+        "crew": "None",
+        "arcsAppeared": [
+            "Orange Town"
+        ],
+        "gender": "male",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": null,
+        "haki": null
+    },
+
+    {
+        "name": "Poro",
+        "mangaOnly": false,
+        "islandOfOrigin": "Orange Town",
+        "race": "Human",
+        "crew": "None",
+        "arcsAppeared": [
+            "Orange Town"
+        ],
+        "gender": "male",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": null,
+        "haki": null
+    },
+
+    {
+        "name": "Silvers Rayliegh",
+        "mangaOnly": false,
+        "islandOfOrigin": "Sabaody Archipelago",
+        "race": "Human",
+        "crew": "Roger Pirates",
+        "arcsAppeared": [
+            "Orange Town",
+            "Sabaody Archipelago",
+            "Marineford",
+            "Post-Marineford",
+            "Egghead"
+        ],
+        "gender": "male",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": [
+            "Dark King Rayliegh",
+            "Rayliegh",
+            "Right Hand of the Pirate King",
+            "Pirate King's Right Hand"
+        ],
+        "haki": "All 3"
+    },
+
+    {
+        "name": "Scopper Gaban",
+        "mangaOnly": false,
+        "islandOfOrigin": "Unknown",
+        "race": "Human",
+        "crew": "Roger Pirates",
+        "arcsAppeared": [
+            "Orange Town",
+            "Wano",
+            "Elbaph"
+        ],
+        "gender": "male",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": [
+            "Mountain Eater",
+            "Ya-san",
+            "Mr. ya"
+        ],
+        "haki": "All 3"
+    },
+
+    {
+        "name": "Gaimon",
+        "mangaOnly": false,
+        "islandOfOrigin": "Island of Rare Animals",
+        "race": "Human",
+        "crew": "Unknown",
+        "arcsAppeared": [
+            "Orange Town"
+        ],
+        "gender": "male",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": [
+            "Boxed Son",
+            "Boxer",
+            "Jack-in-the-box",
+            "Jack in the box",
+            "Heart of Gold"
+        ],
+        "haki": null
+    },
+
+    {
+        "name": "Usopp",
+        "mangaOnly": false,
+        "islandOfOrigin": "Syrup Village",
+        "race": "Human",
+        "crew": "Straw Hat Pirates",
+        "arcsAppeared": [
+            "Syrup Village",
+            "Baratie",
+            "Arlong Park",
+            "Loguetown",
+            "Reverse Mountain",
+            "Whisky Peak",
+            "Little Garden",
+            "Drum Island",
+            "Arabasta",
+            "Jaya",
+            "Skypiea",
+            "Long Ring Long Land",
+            "Water 7",
+            "Enies Lobby",
+            "Thriller Bark",
+            "Sabaody Archipelago",
+            "Fish-Man Island",
+            "Punk Hazard",
+            "Dressrosa",
+            "Zou",
+            "Wano",
+            "Egghead",
+            "Elbaph"
+        ],
+        "gender": "male",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": [
+            "Usoppin",
+            "God Usopp",
+            "Sogeking",
+            "Long Nose",
+            "Sniper King",
+            "Usoppu",
+            "Captain Usopp",
+            "Great Warrior of the Sea"
+        ],
+        "haki": "Observation"
+    },
+
+    {
+        "name": "Mornin",
+        "mangaOnly": false,
+        "islandOfOrigin": "Syrup Village",
+        "race": "Human",
+        "crew": "None",
+        "arcsAppeared": [
+            "Syrup Village"
+        ],
+        "gender": "male",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": null,
+        "haki": null
+    },
+
+    {
+        "name": "Pepper",
+        "mangaOnly": false,
+        "islandOfOrigin": "Syrup Village",
+        "race": "Human",
+        "crew": "Usopp Pirates",
+        "arcsAppeared": [
+            "Syrup Village"
+        ],
+        "gender": "male",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": ["Piiman"],
+        "haki": null
+    },
+
+    {
+        "name": "Carrot",
+        "mangaOnly": false,
+        "islandOfOrigin": "Syrup Village",
+        "race": "Human",
+        "crew": "Usopp Pirates",
+        "arcsAppeared": [
+            "Syrup Village"
+        ],
+        "gender": "male",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": ["Ninjin"],
+        "haki": null
+    },
+
+    {
+        "name": "Onion",
+        "mangaOnly": false,
+        "islandOfOrigin": "Syrup Village",
+        "race": "Human",
+        "crew": "Usopp Pirates",
+        "arcsAppeared": [
+            "Syrup Village"
+        ],
+        "gender": "male",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": ["Tamanegi"],
+        "haki": null
+    },
+
+    {
+        "name": "Kuro",
+        "mangaOnly": false,
+        "islandOfOrigin": "Unknown",
+        "race": "Human",
+        "crew": "The Black Cat Pirates",
+        "arcsAppeared": [
+            "Syrup Village"
+        ],
+        "gender": "male",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": [
+            "Captain Kuro",
+            "Klahadore",
+            "Shady Butler",
+            "Kuro of a Hundred Plans"
+        ],
+        "haki": null
+    },
+
+    {
+        "name": "Kaya",
+        "mangaOnly": false,
+        "islandOfOrigin": "Syrup Village",
+        "race": "Human",
+        "crew": "None",
+        "arcsAppeared": [
+            "Syrup Village"
+        ],
+        "gender": "female",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": null,
+        "haki": null
+    },
+
+    {
+        "name": "DJango",
+        "mangaOnly": false,
+        "islandOfOrigin": "Unknown",
+        "race": "Human",
+        "crew": {
+            "value" : "Marines",
+            "isSpoiler" : true,
+            "alt" : "The Black Cats Pirates"
+        },
+        "arcsAppeared": [
+            "Syrup Village"
+        ],
+        "gender": "male",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": [
+            "Jango",
+            "DJango the Hypnotist",
+            "Jango the Hyponotist"
+        ],
+        "haki": null
+    },
+
+    {
+        "name": "Merry",
+        "mangaOnly": false,
+        "islandOfOrigin": "Syrup Village",
+        "race": "Human",
+        "crew": "None",
+        "arcsAppeared": [
+            "Syrup Village"
+        ],
+        "gender": "male",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": null,
+        "haki": null
+    },
+
+    {
+        "name": "Siam",
+        "mangaOnly": false,
+        "islandOfOrigin": "Unknown",
+        "race": "Human",
+        "crew": "The Black Cat Pirates",
+        "arcsAppeared": [
+            "Syrup Village"
+        ],
+        "gender": "male",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": ["Sham"],
+        "haki": null
+    },
+
+    {
+        "name": "Butchie",
+        "mangaOnly": false,
+        "islandOfOrigin": "Syrup Village",
+        "race": "Human",
+        "crew": "The Black Cat Pirates",
+        "arcsAppeared": [
+            "Syrup Village"
+        ],
+        "gender": "male",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": null,
+        "haki": null
+    },
+
+    {
+        "name": "Banchina",
+        "mangaOnly": false,
+        "islandOfOrigin": "Syrup Village",
+        "race": "Human",
+        "crew": "None",
+        "arcsAppeared": [
+            "Syrup Village"
+        ],
+        "gender": "female",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": null,
+        "haki": null
+    },
+
+    {
+        "name": "Johnny",
+        "mangaOnly": false,
+        "islandOfOrigin": "Unknown",
+        "race": "Human",
+        "crew": "None",
+        "arcsAppeared": [
+            "Baratie",
+            "Arlong Park"
+        ],
+        "gender": "male",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": null,
+        "haki": null
+    },
+
+    {
+        "name": "Yosaku",
+        "mangaOnly": false,
+        "islandOfOrigin": "Unknown",
+        "race": "Human",
+        "crew": "None",
+        "arcsAppeared": [
+            "Baratie",
+            "Arlong Park"
+        ],
+        "gender": "male",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": null,
+        "haki": null
+    },
+
+    {
+        "name": "Fullbody",
+        "mangaOnly": false,
+        "islandOfOrigin": "Unknown",
+        "race": "Human",
+        "crew": "Marine",
+        "arcsAppeared": [
+            "Baratie",
+            "Arabasta",
+            "Amazon Lily",
+            "Marineford",
+            "Zou",
+            "Levely",
+            "Egghead"
+        ],
+        "gender": "male",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": [
+            "Iron Fist",
+            "IronFist FullBody",
+            "Full Body",
+            "Iron Fist Full Body",
+            "IronFist",
+            "Iron Fist FullBody",
+            "IronFist Full Body"
+        ],
+        "haki": null
+    },
+
+    {
+        "name": "Moodle",
+        "mangaOnly": false,
+        "islandOfOrigin": "Unknown",
+        "race": "Human",
+        "crew": "None",
+        "arcsAppeared": [
+            "Baratie"
+        ],
+        "gender": "female",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": null,
+        "haki": null
+    },
+
+    {
+        "name": {
+            "value": "Vinesmoke Sanji",
+            "isSpoiler": true,
+            "alt": "Sanji"
+        },
+        "mangaOnly": false,
+        "islandOfOrigin": "",
+        "race": "",
+        "crew": "",
+        "arcsAppeared": [
+            "Baratie",
+
+        ],
+        "gender": "",
+        "devilFruit": {
+            "devilFruitUser": false,
+            "devilFruitType": null
+        },
+        "nickNames": [
+            "Curly Brow",
+            "Germa 3",
+            "Black Leg",
+            "Black Leg Sanji",
+            "Sangoro",
+            "Stupid Cook"
+
+        ],
+        "haki": "Armament & Observation" 
+    }
+]
+
