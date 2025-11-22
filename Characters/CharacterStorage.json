@@ -20,15 +20,18 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": [
+        "nicknames": [
             "Pirate King", 
             "King of the Pirates",
             "Roger",
             "Gold Roger"
         ],
-        "haki": "All 3"
+        "haki": [
+            "Armament",
+            "Conqueror",
+            "Observation"
+        ]
     },
-
     {
         "name": "Monkey D. Luffy",  
         "mangaOnly": false,
@@ -74,7 +77,7 @@
             "isSpoiler" : true,
             "altType" : "Paramecia"
         },
-        "nickNames": [
+        "nicknames": [
             "Lucy",
             "Straw Boy",
             "Straw Chan",
@@ -91,9 +94,12 @@
             "Mugiwara-ya",
             "Mugiwara ya"
         ],
-        "haki": "All 3"
+        "haki": [
+            "Armament",
+            "Conqueror",
+            "Observation"
+        ]
     },
-
     {
         "name": {
             "value": "Shanks",
@@ -122,16 +128,19 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": [
+        "nicknames": [
             "Red Hair", 
             "Red Haired Shanks",
             "Red-Hair",
             "Red-Haired Shanks"
         ],
-        "haki": "All 3"
+        "haki": [
+            "Armament",
+            "Conqueror",
+            "Observation"
+        ]
     },
-
-        {
+    {
         "name": "Lucky Roux",
         "mangaOnly": false,
         "islandOfOrigin": "Unknown",
@@ -150,10 +159,9 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": null,
-        "haki": null
+        "nicknames": [],
+        "haki": []
     },
-
     {
         "name": "Benn Beckman",
         "mangaOnly": false,
@@ -173,10 +181,9 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": null,
-        "haki": null
+        "nicknames": [],
+        "haki": []
     },
-    
     {
         "name": "Makino",
         "mangaOnly": false,
@@ -194,10 +201,9 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": null,
-        "haki": null
+        "nicknames": [],
+        "haki": []
     },
-
     {
         "name": "Higuma",
         "mangaOnly": false,
@@ -212,13 +218,12 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": [
+        "nicknames": [
             "Higuma The Bear", 
             "The Bear"
         ],
-        "haki": null
+        "haki": []
     },
-
     {
         "name": "Yasopp",
         "mangaOnly": false,
@@ -239,13 +244,12 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": [
+        "nicknames": [
             "Chaser", 
             "Yasopp The Great"
         ],
-        "haki": null
+        "haki": []
     },
-
         {
         "name": "Woop Slap",
         "mangaOnly": false,
@@ -263,10 +267,9 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": ["Mayor Woop Slap"],
-        "haki": null
+        "nicknames": ["Mayor Woop Slap"],
+        "haki": []
     },
-
     {
         "name": "Lord Of The Coast",
         "mangaOnly": false,
@@ -281,10 +284,9 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": null,
-        "haki": null
+        "nicknames": [],
+        "haki": []
     },
-
     {
         "name": "Alvida",
         "mangaOnly": false,
@@ -315,13 +317,12 @@
             "isSpoiler" : true,
             "AltUser" : false
         },
-        "nickNames": [
+        "nicknames": [
             "Iron Mace Alvida",
             "Iron Mace"
         ],
-        "haki": null
+        "haki": []
     },
-
     {
         "name": "Koby",
         "mangaOnly": false,
@@ -347,7 +348,7 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": [
+        "nicknames": [
             "Coby",
             "Koby The Hero",
             "Coby The Hero",
@@ -363,7 +364,6 @@
             "alt" : null
         }
     },
-
     {
         "name": "Roronoa Zoro",
         "mangaOnly": false,
@@ -402,7 +402,7 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": [
+        "nicknames": [
             "Zoro",
             "Roronoa",
             "Pirate Hunter",
@@ -414,9 +414,12 @@
             "Roronoa Zolo",
             "Zolo-juurou"
         ],
-        "haki": "All 3"
+        "haki": [
+            "Armament",
+            "Conqueror",
+            "Observation"
+        ]
     },
-
     {
         "name": "Rika",
         "mangaOnly": false,
@@ -432,10 +435,9 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": null,
-        "haki": null
+        "nicknames": [],
+        "haki": []
     },
-
     {
         "name": "Helmeppo",
         "mangaOnly": false,
@@ -457,10 +459,11 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": null,
-        "haki": "Armament"
+        "nicknames": [],
+        "haki": [
+            "Armament"
+        ]
     },
-
     {
         "name": "Ririka",
         "mangaOnly": false,
@@ -476,8 +479,8 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": null,
-        "haki": null
+        "nicknames": [],
+        "haki": []
     },
     
     {
@@ -494,12 +497,11 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": [
+        "nicknames": [
             "Rokkaku"
         ],
-        "haki": null
+        "haki": []
     },
-
     {
         "name": "Ukkari",
         "mangaOnly": false,
@@ -514,10 +516,9 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": null,
-        "haki": null
+        "nicknames": [],
+        "haki": []
     },
-
     {
         "name": "Shimotsuki Kuina",
         "mangaOnly": false,
@@ -533,10 +534,9 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": ["Kuina"],
-        "haki": null
+        "nicknames": ["Kuina"],
+        "haki": []
     },
-
     {
         "name": "Shimotsuki Koushirou",
         "mangaOnly": false,
@@ -551,10 +551,9 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": ["Koushirou"],
-        "haki": "None"
+        "nicknames": ["Koushirou"],
+        "haki": []
     },
-
     {
         "name": "Axe-Hand Morgan",
         "mangaOnly": false,
@@ -570,14 +569,11 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": [
+        "nicknames": [
             "Morgan"
         ],
-        "haki": null
+        "haki": []
     },
-
-    
-
     {
         "name": "Pinky",
         "mangaOnly": false,
@@ -592,10 +588,9 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": null,
-        "haki": null
+        "nicknames": [],
+        "haki": []
     },
-
     {
         "name": "Nami",
         "mangaOnly": false,
@@ -634,14 +629,13 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": [
+        "nicknames": [
             "Cat Burgular Nami",
             "Cat Burgalar",
             "O-Nami"
         ],
-        "haki": null
+        "haki": []
     },
-
     {
         "name": "Buggy",
         "mangaOnly": false,
@@ -668,16 +662,15 @@
             "devilFruitUser": true,
             "devilFruitType": "Paramecia"
         },
-        "nickNames": [
+        "nicknames": [
             "Buggy The Clown",
             "Buggy the Star Clown",
             "The Genius Jester",
             "Big Nose",
             "Red Nose"
         ],
-        "haki": null
+        "haki": []
     },
-
     {
         "name": "Cabaji",
         "mangaOnly": false,
@@ -701,13 +694,12 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": [
+        "nicknames": [
             "Cabaji the Acrobat",
             "The Acrobat"
         ],
-        "haki": null
+        "haki": []
     },
-
     {
         "name": "Mohji",
         "mangaOnly": false,
@@ -731,15 +723,14 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": [
+        "nicknames": [
             "Mohji The Beast Tamer",
             "Beast Tamer",
             "Mohji The Lion Tamer",
             "Lion Tamer"
         ],
-        "haki": null
+        "haki": []
     },
-
     {
         "name": "Richie",
         "mangaOnly": false,
@@ -763,13 +754,12 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": [
+        "nicknames": [
             "Richy",
             "Captain Richie"
         ],
-        "haki": null
+        "haki": []
     },
-
     {
         "name": "Chou Chou",
         "mangaOnly": false,
@@ -784,10 +774,9 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": null,
-        "haki": null
+        "nicknames": [],
+        "haki": []
     },
-
     {
         "name": "Boodle",
         "mangaOnly": false,
@@ -802,10 +791,9 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": ["Mayor Boodle"],
-        "haki": null
+        "nicknames": ["Mayor Boodle"],
+        "haki": []
     },
-
     {
         "name": "Hocker",
         "mangaOnly": false,
@@ -820,10 +808,9 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": null,
-        "haki": null
+        "nicknames": [],
+        "haki": []
     },
-
     {
         "name": "Poro",
         "mangaOnly": false,
@@ -838,10 +825,9 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": null,
-        "haki": null
+        "nicknames": [],
+        "haki": []
     },
-
     {
         "name": "Silvers Rayliegh",
         "mangaOnly": false,
@@ -860,15 +846,18 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": [
+        "nicknames": [
             "Dark King Rayliegh",
             "Rayliegh",
             "Right Hand of the Pirate King",
             "Pirate King's Right Hand"
         ],
-        "haki": "All 3"
+        "haki": [
+            "Armament",
+            "Conqueror",
+            "Observation"
+        ]
     },
-
     {
         "name": "Scopper Gaban",
         "mangaOnly": false,
@@ -885,14 +874,17 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": [
+        "nicknames": [
             "Mountain Eater",
             "Ya-san",
             "Mr. ya"
         ],
-        "haki": "All 3"
+        "haki": [
+            "Armament",
+            "Conqueror",
+            "Observation"
+        ]
     },
-
     {
         "name": "Gaimon",
         "mangaOnly": false,
@@ -907,16 +899,15 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": [
+        "nicknames": [
             "Boxed Son",
             "Boxer",
             "Jack-in-the-box",
             "Jack in the box",
             "Heart of Gold"
         ],
-        "haki": null
+        "haki": []
     },
-
     {
         "name": "Usopp",
         "mangaOnly": false,
@@ -953,7 +944,7 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": [
+        "nicknames": [
             "Usoppin",
             "God Usopp",
             "Sogeking",
@@ -963,9 +954,10 @@
             "Captain Usopp",
             "Great Warrior of the Sea"
         ],
-        "haki": "Observation"
+        "haki": [
+            "Observation"
+        ]
     },
-
     {
         "name": "Mornin",
         "mangaOnly": false,
@@ -980,10 +972,9 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": null,
-        "haki": null
+        "nicknames": [],
+        "haki": []
     },
-
     {
         "name": "Pepper",
         "mangaOnly": false,
@@ -998,10 +989,9 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": ["Piiman"],
-        "haki": null
+        "nicknames": ["Piiman"],
+        "haki": []
     },
-
     {
         "name": "Carrot",
         "mangaOnly": false,
@@ -1016,10 +1006,9 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": ["Ninjin"],
-        "haki": null
+        "nicknames": ["Ninjin"],
+        "haki": []
     },
-
     {
         "name": "Onion",
         "mangaOnly": false,
@@ -1034,10 +1023,9 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": ["Tamanegi"],
-        "haki": null
+        "nicknames": ["Tamanegi"],
+        "haki": []
     },
-
     {
         "name": "Kuro",
         "mangaOnly": false,
@@ -1052,15 +1040,14 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": [
+        "nicknames": [
             "Captain Kuro",
             "Klahadore",
             "Shady Butler",
             "Kuro of a Hundred Plans"
         ],
-        "haki": null
+        "haki": []
     },
-
     {
         "name": "Kaya",
         "mangaOnly": false,
@@ -1075,10 +1062,9 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": null,
-        "haki": null
+        "nicknames": [],
+        "haki": []
     },
-
     {
         "name": "DJango",
         "mangaOnly": false,
@@ -1097,14 +1083,13 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": [
+        "nicknames": [
             "Jango",
             "DJango the Hypnotist",
             "Jango the Hyponotist"
         ],
-        "haki": null
+        "haki": []
     },
-
     {
         "name": "Merry",
         "mangaOnly": false,
@@ -1119,10 +1104,9 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": null,
-        "haki": null
+        "nicknames": [],
+        "haki": []
     },
-
     {
         "name": "Siam",
         "mangaOnly": false,
@@ -1137,10 +1121,9 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": ["Sham"],
-        "haki": null
+        "nicknames": ["Sham"],
+        "haki": []
     },
-
     {
         "name": "Butchie",
         "mangaOnly": false,
@@ -1155,10 +1138,9 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": null,
-        "haki": null
+        "nicknames": [],
+        "haki": []
     },
-
     {
         "name": "Banchina",
         "mangaOnly": false,
@@ -1173,10 +1155,9 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": null,
-        "haki": null
+        "nicknames": [],
+        "haki": []
     },
-
     {
         "name": "Johnny",
         "mangaOnly": false,
@@ -1192,10 +1173,9 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": null,
-        "haki": null
+        "nicknames": [],
+        "haki": []
     },
-
     {
         "name": "Yosaku",
         "mangaOnly": false,
@@ -1211,10 +1191,9 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": null,
-        "haki": null
+        "nicknames": [],
+        "haki": []
     },
-
     {
         "name": "Fullbody",
         "mangaOnly": false,
@@ -1235,7 +1214,7 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": [
+        "nicknames": [
             "Iron Fist",
             "IronFist FullBody",
             "Full Body",
@@ -1244,9 +1223,8 @@
             "Iron Fist FullBody",
             "IronFist Full Body"
         ],
-        "haki": null
+        "haki": []
     },
-
     {
         "name": "Moodle",
         "mangaOnly": false,
@@ -1261,10 +1239,9 @@
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": null,
-        "haki": null
+        "nicknames": [],
+        "haki": []
     },
-
     {
         "name": {
             "value": "Vinesmoke Sanji",
@@ -1276,24 +1253,24 @@
         "race": "",
         "crew": "",
         "arcsAppeared": [
-            "Baratie",
-
+            "Baratie"
         ],
         "gender": "",
         "devilFruit": {
             "devilFruitUser": false,
             "devilFruitType": null
         },
-        "nickNames": [
+        "nicknames": [
             "Curly Brow",
             "Germa 3",
             "Black Leg",
             "Black Leg Sanji",
             "Sangoro",
             "Stupid Cook"
-
         ],
-        "haki": "Armament & Observation" 
+        "haki": [
+            "Armament",
+            "Observation"
+        ]
     }
 ]
-
